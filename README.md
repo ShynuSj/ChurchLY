@@ -12,6 +12,10 @@ for members.
 PREVIEW VIDEOS:
 
 
-https://github.com/ShynuSj/ChurchLY/assets/100471775/e2000031-b15c-49fb-b917-cbc94da81bd2
 
+
+
+
+
+https://github.com/ShynuSj/ChurchLY/assets/100471775/634bc929-1638-4342-bfb5-cc7bc12eaefb
 
