@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+
+html,
+body,
+#root,
+.app,
+.content{
+  height: 100%;
+  width: 100%;
+  font-family: 'poppins',sans-serif;
+}
+.app {
+  display: flex;
+  position: relative;
+}
+::-webkit-scrollbar{
+  width: 10px;
+}
+/* Track */
+::-webkit-scrollbar-track{
+  background: #e0e0e0;
+}
+/*Handle*/
+::-webkit-scrollbar-thumb{
+  background: #888;
+}
+
+/* handle on hover*/
+
+::-webkit-scrollbar-track:hover{
+  background: #1723ff;
+}
+
+.MuiDataGrid-main {
+  border-bottom: 1px solid rgb(0, 0, 0) !important;
+}
+.MuiDataGrid-columnHeader{
+  border: solid 1px black;
+}
+
+.MuiDataGrid-cell{
+  border: 1px solid rgb(0, 0, 0) !important;
+}
+
+.name-cell{
+  font-size: 10px;
+}
+
+.family-cell{
+  font-size: 10px;
+}
+.category-cell{
+  font-size: 10px;
+}
